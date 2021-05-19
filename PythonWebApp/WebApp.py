@@ -15,4 +15,5 @@ def admin():
     return redirect(url_for("home"))
 
 if __name__ == "__main__":
-    app.run()A
+    app.run()I am here
+    
